@@ -1,0 +1,5 @@
+print("please enter the first numbers:")
+x = int(input())
+print("please enter the second numbers:")
+y = int(input())
+print (x+y)
