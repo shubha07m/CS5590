@@ -1,0 +1,1 @@
+{'Hello': 1, 'how': 1, 'are': 2, 'you': 3, 'there?': 1, 'this': 1, 'is': 2, 'a': 1, 'python': 3, 'class': 1, 'deep': 1, 'learning': 1, 'and': 1, 'good': 1, 'for': 1}
